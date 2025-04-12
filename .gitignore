@@ -1,0 +1,26 @@
+# === Unity generated files ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Visual Studio Code ===
+.vscode/
+
+# === Autres dossiers inutiles ===
+/.vs/
+/*.apk
