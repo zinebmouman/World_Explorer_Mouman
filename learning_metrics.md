@@ -1,54 +1,61 @@
 # Unity Learning Tutor Metrics Report
 
 ## Session Overview
-- **Start Time**: 2025-04-12T15:56:40.725058
+- **Start Time**: 2025-04-13T13:20:31.562467
 - **End Time**: None
 - **GDD Refinements**: 0
-- **Script Purchases**: 1
-- **Scene Analyses**: 22
+- **Script Purchases**: 0
+- **Scene Analyses**: 46
 - **Menu Accesses**: 0
-- **Current Coin Balance**: 50
+- **Current Coin Balance**: 95
 
 ## Coin Transactions
 | Timestamp | Amount | Reason | Balance |
 |-----------|--------|--------|---------|
-| 2025-04-12T16:03:46.346578 | -10 | script_purchase | 10 |
-| 2025-04-12T16:33:05.046878 | 5 | task_completion | 15 |
-| 2025-04-12T16:33:05.085013 | 5 | task_completion | 20 |
-| 2025-04-12T17:45:21.779338 | 5 | task_completion | 25 |
-| 2025-04-12T17:45:21.798305 | 5 | task_completion | 30 |
-| 2025-04-12T19:31:56.983185 | 5 | task_completion | 35 |
-| 2025-04-12T19:32:01.432031 | 15 | chapter_completion | 50 |
+| 2025-04-13T13:20:59.585681 | 15 | chapter_completion | 65 |
+| 2025-04-13T14:46:48.458653 | 5 | task_completion | 70 |
+| 2025-04-13T14:46:48.484797 | 5 | task_completion | 75 |
+| 2025-04-13T15:58:25.186293 | 5 | task_completion | 80 |
+| 2025-04-13T16:20:08.384520 | 5 | task_completion | 85 |
+| 2025-04-13T16:20:08.409705 | 5 | task_completion | 90 |
+| 2025-04-13T16:50:36.833038 | 5 | task_completion | 95 |
 
 ## Chapter Progress
 ### Chapter 2: Consonant Island: Auditory Association
-- Started: 2025-04-12T19:32:01.467170
+- Started: 2025-04-13T14:43:53.421021
 - Completed: None
 
 ## Task Details
-### Chapter 1 Task 3: Create VowelClick Script [Expected time: 1 hour]
-- Started: 2025-04-12T16:27:57.682501
-- Completed: 2025-04-12T16:33:05.078297
-- Success: True
-- Validation Attempts: 4
-- Duration: 307.40 seconds
-
-### Chapter 1 Task 4: Create VowelIsland UI System[Expected time: 2 hours]
-- Started: 2025-04-12T17:41:40.079867
-- Completed: 2025-04-12T17:45:21.796297
-- Success: True
-- Validation Attempts: 16
-- Duration: 221.72 seconds
-
-### Chapter 1 Task 5: Test Vowel Island Gameplay [Expected time: 30 minutes]
-- Started: 2025-04-12T17:45:24.945998
-- Completed: 2025-04-12T19:31:56.973291
-- Success: True
-- Validation Attempts: 1
-- Duration: 6392.03 seconds
-
 ### Chapter 2 Task 1: Design Consonant Island Landscape [Expected time: 1 hour]
-- Started: 2025-04-12T19:32:01.468619
+- Started: 2025-04-13T14:43:53.423157
+- Completed: 2025-04-13T14:46:48.479993
+- Success: True
+- Validation Attempts: 20
+- Duration: 175.06 seconds
+
+### Chapter 2 Task 2: Create Consonant Game Objects [Expected time: 1.5 hours]
+- Started: 2025-04-13T15:57:56.417259
+- Completed: 2025-04-13T15:58:25.181742
+- Success: True
+- Validation Attempts: 15
+- Duration: 28.76 seconds
+
+### Chapter 2 Task 3: Implement ConsonantInteraction Script [Expected time: 1.5 hours]
+- Started: 2025-04-13T16:17:09.332130
+- Completed: 2025-04-13T16:20:08.405242
+- Success: True
+- Validation Attempts: 3
+- Duration: 179.07 seconds
+
+### Chapter 2 Task 4: Integrate Consonant Island UI [Expected time: 1 hour]
+- Started: 2025-04-13T16:50:29.760940
+- Completed: 2025-04-13T16:50:36.830718
+- Success: True
+- Validation Attempts: 8
+- Duration: 7.07 seconds
+
+### Chapter 2 Task 5: Finalize Consonant Island Gameplay [Expected time: 30 minutes]
+- Started: 2025-04-13T16:50:51.746800
 - Completed: None
 - Success: False
 - Validation Attempts: 1
